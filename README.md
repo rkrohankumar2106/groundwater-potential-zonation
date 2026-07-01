@@ -176,9 +176,8 @@ To display an image in GitHub:
 
 ## Author
 
-Rohan Kumar
-
-B.E. Computer Science and Engineering  
+Rohan Kumar RK
+B.TECH. Computer Science and Business Systems  
 R.M.D. Engineering College
 
 ---
